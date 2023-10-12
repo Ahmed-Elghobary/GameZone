@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 var ConnectionString = builder.Configuration.GetConnectionString(name: "DefaultConnection")
-    ?? throw new InvalidOperationException(message: "No Connection String Was Found");
+    ?? throw new InvalidOperationException(message: "No Connection String Was n Found");
 
 builder.Services.AddDbContext<GameDbContext>(options =>
 options.UseSqlServer(connectionString: ConnectionString));
