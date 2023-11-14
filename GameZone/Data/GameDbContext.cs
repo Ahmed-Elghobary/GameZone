@@ -39,7 +39,7 @@ namespace GameZone.Data
                 .HasForeignKey(x => x.DeviceId);
 
             modelBuilder.Entity<GameDevice>().HasOne(x=>x.Game)
-                .WithMany(x=>x.GameDevices)
+                .WithMany(x=>x.Devices)
                 .HasForeignKey(x => x.GameId);
 
             modelBuilder.Entity<GameDevice>().HasKey(x => new { x.DeviceId, x.GameId });

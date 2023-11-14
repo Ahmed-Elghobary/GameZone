@@ -14,8 +14,8 @@ namespace GameZone.Models
         public int CategoryId { get; set; }
         public Category Category { get; set; } = default!;
 
-        //public ICollection<GameDevice> Devices { get; set; }= new List<GameDevice>();   
-        public List<GameDevice> GameDevices { get; set; } = new List<GameDevice>();
+        public ICollection<GameDevice> Devices { get; set; }= new List<GameDevice>();   
+       // public List<GameDevice> GameDevices { get; set; } = new List<GameDevice>();
 
 
     }

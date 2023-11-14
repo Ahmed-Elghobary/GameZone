@@ -23,3 +23,19 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.cover-preview{
+    max-height:550px;
+    border-radius:8px;
+}
+
+/*
+sweet2
+*/
+.swal2-title, .swal2-html-container{
+    color:#fff !important;
+}
+
+div:where(.swal2-container) div:where(.swal2-popup){
+    background-color:#1a0933;
+}
