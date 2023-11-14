@@ -55,9 +55,18 @@ This repository contains a fully functional ASP.NET Core MVC project implementin
 Now it contains all the screen, thanks for your love and support 🙏 
 
 ## Photos
+ <strong>Add New Game Form</strong>
+ <br>
 ![Preview](screens/SharedScrefenshot.jpg)
-cvbnm,.,.mnbvcx
+ <strong> Validation !</strong>
+  <br>
 ![Preview](screens/SharedScrejnshot.jpg)
+ <strong> Home Page </stromg>
+  <br>
 ![Preview](screens/SharedScreenshot.jpg)
+ <strong> Games List Control </strong>
+  <br>
 ![Preview](screens/SharedScreensho2t.jpg)
+ <strong> Alert confirmation</strong>
+  <br>
 ![Preview](screens/SharedScrelenshot.jpg)
