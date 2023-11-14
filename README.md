@@ -1,37 +1,56 @@
-# GameZone
+# FIFA Store  
 
- If you want to learn how to build this ecommerce template on Flutter [watch the playlist on YouTube](https://youtube.com/playlist?list=PLxUBb2A_UUy8OlaNZpS2mfL8xpHcnd_Af), In the first video, we start by making a neat onboarding screen for our shopping app. This works on both Android and iOS because it's made with Flutter. In the next video, we tackle the 'Sign In' and 'Forgot Password' screens, adding some unique error messages. The third video covers the 'Sign Up' and OTP processes. The fourth one is fun – we create the main homepage. In the fifth, we dive into the product page, and in the sixth, we craft an order page with cool features like 'swipe to delete.' Finally, in the seventh video, we design the user profile page.
+<h2>
+ASP.NET Core MVC CRUD Project with Full Validation
+</h2>
+<p>
+Project Overview:<br>
+This repository contains a fully functional ASP.NET Core MVC project implementing CRUD (Create, Read, Update, Delete) operations with comprehensive input validation. The project is developed using the latest ASP.NET Core framework, providing a solid foundation for building scalable and maintainable web applications.
+</p>
 
- Download the Flutter ecommerce app template for Free.
+## Key Features:
+<ul>
+ <li> <strong> CRUD Operations:</strong> Complete set of endpoints for managing entities through Create, Read, Update, and Delete operations.</li>
+<li><strong>Validation:</strong> Robust server-side and client-side validation mechanisms ensure data integrity and enhance user experience.</li>
+<li><strong>Entity Framework Core:</strong> Integration with Entity Framework Core for seamless database interactions and migrations.</li>
+ <li><strong>>Dependency Injection:</strong> Utilizes ASP.NET Core's built-in dependency injection for scalable and maintainable code.</li>
+<li><strong>Responsive Design:</strong> The user interface is designed with responsiveness in mind, ensuring a consistent and enjoyable experience across devices.</li>
+ <li><strong>Bootstrap Integration:</strong> Responsive and user-friendly design with Bootstrap for a modern look and feel.</li>
+</ul>
 
 
-### Video Preview of the Shop template
+## Technologies Used:
+<ul>
+ <li><strong>ASP.NET Core MVC:</strong> The core framework for building web applications.</li>
+ <li><strong>Entity Framework Core:</strong> An ORM (Object-Relational Mapper) for database interaction.</li>
+ <li><strong>Bootstrap:</strong> A popular CSS framework for responsive and mobile-first design.</li>
+</ul>
 
-![Preview](/intro.gif)
+
+## Project Structure:
+<ul>
+ <li><strong>Controllers: :</strong> Handles incoming HTTP requests, implements CRUD operations.</li>
+ <li><strong>Views:</strong> Razor views for rendering HTML and UI components.</li>
+ <li><strong>Models:</strong> Defines data models and entities used in the application.</li>
+  <li><strong>Data:</strong> Contains the database context and migration configurations.</li>
+  <li><strong>wwwroot:</strong> Static files such as stylesheets, scripts, and images.</li>
+</ul>
 
 ## Screens it contains:
 
-=> Onboarding
+=> Home Page(index)
 
-=> Login
+=> Add Form
 
-=> Forgot Password
+=> Edit Form
 
-=> Sign Up
+=> Games List
 
-=> Complete Profile
+=> Game Detail
 
-=> OTP Verification
+=> Alert confirmation
 
-=> Home Page
-
-=> Product Details
-
-=> Order
-
-=> Profile (added)
-
-=> Bottom Navigation Bar (added)
+=> Bottom Navigation Bar 
 
 Now it contains all the screen, thanks for your love and support 🙏 
 
