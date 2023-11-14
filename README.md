@@ -13,7 +13,7 @@ This repository contains a fully functional ASP.NET Core MVC project implementin
  <li> <strong> CRUD Operations:</strong> Complete set of endpoints for managing entities through Create, Read, Update, and Delete operations.</li>
 <li><strong>Validation:</strong> Robust server-side and client-side validation mechanisms ensure data integrity and enhance user experience.</li>
 <li><strong>Entity Framework Core:</strong> Integration with Entity Framework Core for seamless database interactions and migrations.</li>
- <li><strong>>Dependency Injection:</strong> Utilizes ASP.NET Core's built-in dependency injection for scalable and maintainable code.</li>
+ <li><strong>Dependency Injection:</strong> Utilizes ASP.NET Core's built-in dependency injection for scalable and maintainable code.</li>
 <li><strong>Responsive Design:</strong> The user interface is designed with responsiveness in mind, ensuring a consistent and enjoyable experience across devices.</li>
  <li><strong>Bootstrap Integration:</strong> Responsive and user-friendly design with Bootstrap for a modern look and feel.</li>
 </ul>
